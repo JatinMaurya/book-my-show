@@ -33,11 +33,11 @@ const settingsLg = {
   };
 
   const images =[
-    "https://images.unsplash.com/photo-1481467804160-3cdf91aa1ac4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80",
-    "https://images.unsplash.com/photo-1496154704336-6c88a94a019a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-    "https://images.unsplash.com/photo-1593642532744-d377ab507dc8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2069&q=80",
-    "https://images.unsplash.com/photo-1576201836106-db1758fd1c97?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-    "https://images.unsplash.com/photo-1630278156268-12d56c2e135f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1331&q=80"
+    "https://assets-in.bmscdn.com/promotions/cms/creatives/1680083241797_rewardsweb.jpg",
+    "https://assets-in.bmscdn.com/promotions/cms/creatives/1682617779318_webbannernpa.jpg",
+    "https://assets-in.bmscdn.com/promotions/cms/creatives/1684229973024_summeractivitiesdesktop.jpg",
+    "https://assets-in.bmscdn.com/promotions/cms/creatives/1684440120348_freeaccessweb.jpg",
+    "https://assets-in.bmscdn.com/promotions/cms/creatives/1683094950747_web.jpg"
   ]
 
   return (
